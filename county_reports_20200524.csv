@@ -1,0 +1,1206 @@
+"Race, ethnicity",Cases,Hospitalizations,Deaths
+White,141,30,2
+Hispanic,13,0,0
+Non-Hispanic,124,29,2
+Unknown ethnicity,4,1,0
+Black,124,37,5
+Hispanic,1,0,0
+Non-Hispanic,120,36,5
+Unknown ethnicity,3,1,0
+Other,25,1,0
+Hispanic,13,1,0
+Non-Hispanic,11,0,0
+Unknown ethnicity,1,0,0
+Unknown race,53,6,0
+Hispanic,4,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,49,6,0
+Total,343,74,7
+"Race, ethnicity",Cases,Hospitalizations,
+White,20,7,3
+Hispanic,0,0,0
+Non-Hispanic,20,7,3
+Unknown ethnicity,0,0,0
+Black,6,1,0
+Hispanic,0,0,0
+Non-Hispanic,5,1,0
+Unknown ethnicity,1,0,0
+Other,1,1,0
+Hispanic,0,0,0
+Non-Hispanic,1,1,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,27,9,3
+"Race, ethnicity",Cases,Hospitalizations,
+White,73,8,3
+Hispanic,21,1,0
+Non-Hispanic,50,7,3
+Unknown ethnicity,2,0,0
+Black,10,3,0
+Hispanic,0,0,0
+Non-Hispanic,10,3,0
+Unknown ethnicity,0,0,0
+Other,6,2,0
+Hispanic,4,1,0
+Non-Hispanic,1,1,0
+Unknown ethnicity,1,0,0
+Unknown race,4,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,4,0,0
+Total,93,13,3
+"Race, ethnicity",Cases,Hospitalizations,
+White,45,9,2
+Hispanic,0,0,0
+Non-Hispanic,45,9,2
+Unknown ethnicity,0,0,0
+Black,5,1,0
+Hispanic,0,0,0
+Non-Hispanic,5,1,0
+Unknown ethnicity,0,0,0
+Other,1,1,0
+Hispanic,0,0,0
+Non-Hispanic,1,1,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,51,11,2
+"Race, ethnicity",Cases,Hospitalizations,
+White,281,38,8
+Hispanic,48,2,0
+Non-Hispanic,231,35,8
+Unknown ethnicity,2,1,0
+Black,56,10,3
+Hispanic,5,1,0
+Non-Hispanic,50,8,2
+Unknown ethnicity,1,1,1
+Other,19,7,0
+Hispanic,7,3,0
+Non-Hispanic,11,4,0
+Unknown ethnicity,1,0,0
+Unknown race,27,1,0
+Hispanic,1,1,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,24,0,0
+Total,383,56,11
+"Race, ethnicity",Cases,Hospitalizations,
+White,"3,297",614,155
+Hispanic,"1,677",219,22
+Non-Hispanic,"1,610",395,133
+Unknown ethnicity,10,0,0
+Black,"2,420",654,107
+Hispanic,152,42,2
+Non-Hispanic,"2,261",612,105
+Unknown ethnicity,7,0,0
+Other,636,130,29
+Hispanic,335,57,8
+Non-Hispanic,295,73,21
+Unknown ethnicity,6,0,0
+Unknown race,180,9,1
+Hispanic,20,2,0
+Non-Hispanic,17,3,0
+Unknown ethnicity,143,4,1
+Total,"6,533","1,407",292
+"Race, ethnicity",Cases,Hospitalizations,
+White,34,3,3
+Hispanic,0,0,0
+Non-Hispanic,30,3,3
+Unknown ethnicity,4,0,0
+Black,9,2,0
+Hispanic,0,0,0
+Non-Hispanic,9,2,0
+Unknown ethnicity,0,0,0
+Other,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Unknown race,8,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,7,0,0
+Total,52,5,3
+"Race, ethnicity",Cases,Hospitalizations,
+White,339,93,48
+Hispanic,14,3,1
+Non-Hispanic,318,89,47
+Unknown ethnicity,7,1,0
+Black,51,12,5
+Hispanic,1,0,0
+Non-Hispanic,49,12,5
+Unknown ethnicity,1,0,0
+Other,9,2,0
+Hispanic,2,0,0
+Non-Hispanic,7,2,0
+Unknown ethnicity,0,0,0
+Unknown race,23,6,3
+Hispanic,0,0,0
+Non-Hispanic,1,0,1
+Unknown ethnicity,22,6,2
+Total,422,113,56
+"Race, ethnicity",Cases,Hospitalizations,
+White,83,29,12
+Hispanic,7,1,0
+Non-Hispanic,74,28,12
+Unknown ethnicity,2,0,0
+Black,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Other,10,0,0
+Hispanic,4,0,0
+Non-Hispanic,6,0,0
+Unknown ethnicity,0,0,0
+Unknown race,25,3,0
+Hispanic,3,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,22,3,0
+Total,119,32,12
+"Race, ethnicity",Cases,Hospitalizations,
+White,217,57,18
+Hispanic,15,6,2
+Non-Hispanic,195,50,15
+Unknown ethnicity,7,1,1
+Black,71,22,6
+Hispanic,3,1,0
+Non-Hispanic,62,21,6
+Unknown ethnicity,6,0,0
+Other,20,5,2
+Hispanic,4,1,0
+Non-Hispanic,16,4,2
+Unknown ethnicity,0,0,0
+Unknown race,47,3,1
+Hispanic,0,0,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,45,3,1
+Total,355,87,27
+"Race, ethnicity",Cases,Hospitalizations,
+White,808,127,35
+Hispanic,448,42,6
+Non-Hispanic,325,85,28
+Unknown ethnicity,35,0,1
+Black,79,17,3
+Hispanic,3,1,0
+Non-Hispanic,74,16,3
+Unknown ethnicity,2,0,0
+Other,105,12,2
+Hispanic,87,10,1
+Non-Hispanic,13,2,0
+Unknown ethnicity,5,0,1
+Unknown race,185,14,5
+Hispanic,23,2,0
+Non-Hispanic,7,0,0
+Unknown ethnicity,155,12,5
+Total,"1,177",170,45
+"Race, ethnicity",Cases,Hospitalizations,
+White,66,6,1
+Hispanic,6,1,0
+Non-Hispanic,58,5,1
+Unknown ethnicity,2,0,0
+Black,55,4,0
+Hispanic,0,0,0
+Non-Hispanic,54,4,0
+Unknown ethnicity,1,0,0
+Other,4,1,1
+Hispanic,3,1,1
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Unknown race,4,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,4,0,0
+Total,129,11,2
+"Race, ethnicity",Cases,Hospitalizations,
+White,"9,147","1,787",408
+Hispanic,"7,592","1,488",304
+Non-Hispanic,"1,122",246,77
+Unknown ethnicity,433,53,27
+Black,"2,661",682,169
+Hispanic,269,77,12
+Non-Hispanic,"2,199",573,148
+Unknown ethnicity,193,32,9
+Other,784,118,21
+Hispanic,427,66,7
+Non-Hispanic,214,44,11
+Unknown ethnicity,143,8,3
+Unknown race,"4,072",134,33
+Hispanic,548,39,3
+Non-Hispanic,75,13,2
+Unknown ethnicity,"3,449",82,28
+Total,"16,664","2,721",631
+"Race, ethnicity",Cases,Hospitalizations,
+White,92,17,5
+Hispanic,52,3,0
+Non-Hispanic,32,11,4
+Unknown ethnicity,8,3,1
+Black,4,1,0
+Hispanic,0,0,0
+Non-Hispanic,3,1,0
+Unknown ethnicity,1,0,0
+Other,1,0,0
+Hispanic,1,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,18,4,3
+Hispanic,1,1,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,17,3,3
+Total,115,22,8
+"Race, ethnicity",Cases,Hospitalizations,
+White,27,5,1
+Hispanic,0,0,0
+Non-Hispanic,27,5,1
+Unknown ethnicity,0,0,0
+Black,11,1,0
+Hispanic,0,0,0
+Non-Hispanic,10,1,0
+Unknown ethnicity,1,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,3,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,3,0,0
+Total,41,6,1
+"Race, ethnicity",Cases,Hospitalizations,
+White,618,101,20
+Hispanic,99,10,0
+Non-Hispanic,498,91,20
+Unknown ethnicity,21,0,0
+Black,521,118,19
+Hispanic,2,0,0
+Non-Hispanic,502,117,18
+Unknown ethnicity,17,1,1
+Other,147,22,2
+Hispanic,76,7,0
+Non-Hispanic,64,14,1
+Unknown ethnicity,7,1,1
+Unknown race,99,0,0
+Hispanic,5,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,93,0,0
+Total,"1,385",241,41
+"Race, ethnicity",Cases,Hospitalizations,
+White,286,28,16
+Hispanic,9,1,0
+Non-Hispanic,244,27,14
+Unknown ethnicity,33,0,2
+Black,228,33,8
+Hispanic,0,0,0
+Non-Hispanic,193,32,6
+Unknown ethnicity,35,1,2
+Other,17,1,1
+Hispanic,2,0,0
+Non-Hispanic,13,1,1
+Unknown ethnicity,2,0,0
+Unknown race,87,2,1
+Hispanic,3,0,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,82,2,1
+Total,618,64,26
+"Race, ethnicity",Cases,Hospitalizations,
+White,104,14,4
+Hispanic,15,2,1
+Non-Hispanic,89,12,3
+Unknown ethnicity,0,0,0
+Black,21,3,0
+Hispanic,0,0,0
+Non-Hispanic,21,3,0
+Unknown ethnicity,0,0,0
+Other,37,2,0
+Hispanic,5,0,0
+Non-Hispanic,29,1,0
+Unknown ethnicity,3,1,0
+Unknown race,10,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,9,0,0
+Total,172,19,4
+"Race, ethnicity",Cases,Hospitalizations,
+White,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Black,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,1,0,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,101,10,0
+Hispanic,12,0,0
+Non-Hispanic,83,9,0
+Unknown ethnicity,6,1,0
+Black,112,29,1
+Hispanic,0,0,0
+Non-Hispanic,103,29,1
+Unknown ethnicity,9,0,0
+Other,9,3,0
+Hispanic,7,3,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,0,0,0
+Unknown race,29,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,28,0,0
+Total,251,42,1
+"Race, ethnicity",Cases,Hospitalizations,
+White,8,0,0
+Hispanic,0,0,0
+Non-Hispanic,8,0,0
+Unknown ethnicity,0,0,0
+Black,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,2,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,1,0,0
+Total,11,0,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,16,3,1
+Hispanic,11,0,0
+Non-Hispanic,5,3,1
+Unknown ethnicity,0,0,0
+Black,4,1,0
+Hispanic,0,0,0
+Non-Hispanic,3,1,0
+Unknown ethnicity,1,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,20,4,1
+"Race, ethnicity",Cases,Hospitalizations,
+White,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Black,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,1,0,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,95,0,0
+Hispanic,7,0,0
+Non-Hispanic,28,0,0
+Unknown ethnicity,60,0,0
+Black,87,0,0
+Hispanic,1,0,0
+Non-Hispanic,30,0,0
+Unknown ethnicity,56,0,0
+Other,11,1,0
+Hispanic,2,1,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,9,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,193,1,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,23,2,0
+Hispanic,12,0,0
+Non-Hispanic,11,2,0
+Unknown ethnicity,0,0,0
+Black,32,5,0
+Hispanic,0,0,0
+Non-Hispanic,31,5,0
+Unknown ethnicity,1,0,0
+Other,20,3,0
+Hispanic,17,1,0
+Non-Hispanic,3,2,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,75,10,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,185,24,9
+Hispanic,129,12,2
+Non-Hispanic,52,12,7
+Unknown ethnicity,4,0,0
+Black,50,13,3
+Hispanic,0,0,0
+Non-Hispanic,48,11,3
+Unknown ethnicity,2,2,0
+Other,10,5,0
+Hispanic,7,3,0
+Non-Hispanic,3,2,0
+Unknown ethnicity,0,0,0
+Unknown race,36,1,0
+Hispanic,9,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,27,1,0
+Total,281,43,12
+"Race, ethnicity",Cases,Hospitalizations,
+White,87,18,4
+Hispanic,22,4,1
+Non-Hispanic,64,14,3
+Unknown ethnicity,1,0,0
+Black,15,3,1
+Hispanic,0,0,0
+Non-Hispanic,15,3,1
+Unknown ethnicity,0,0,0
+Other,2,1,0
+Hispanic,1,1,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Unknown race,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,1,0,0
+Total,105,22,5
+"Race, ethnicity",Cases,Hospitalizations,
+White,63,16,2
+Hispanic,20,4,0
+Non-Hispanic,37,10,2
+Unknown ethnicity,6,2,0
+Black,26,11,4
+Hispanic,1,0,0
+Non-Hispanic,24,10,3
+Unknown ethnicity,1,1,1
+Other,20,8,2
+Hispanic,14,6,1
+Non-Hispanic,6,2,1
+Unknown ethnicity,0,0,0
+Unknown race,3,0,0
+Hispanic,1,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,2,0,0
+Total,112,35,8
+"Race, ethnicity",Cases,Hospitalizations,
+White,867,207,42
+Hispanic,289,51,6
+Non-Hispanic,528,144,34
+Unknown ethnicity,50,12,2
+Black,369,109,18
+Hispanic,10,2,0
+Non-Hispanic,338,102,18
+Unknown ethnicity,21,5,0
+Other,364,62,8
+Hispanic,192,33,5
+Non-Hispanic,134,24,2
+Unknown ethnicity,38,5,1
+Unknown race,224,6,4
+Hispanic,13,0,0
+Non-Hispanic,7,0,0
+Unknown ethnicity,204,6,4
+Total,"1,824",384,72
+"Race, ethnicity",Cases,Hospitalizations,
+White,9,0,0
+Hispanic,0,0,0
+Non-Hispanic,9,0,0
+Unknown ethnicity,0,0,0
+Black,3,1,0
+Hispanic,0,0,0
+Non-Hispanic,3,1,0
+Unknown ethnicity,0,0,0
+Other,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Unknown race,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,1,0,0
+Total,14,1,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,71,18,7
+Hispanic,4,0,0
+Non-Hispanic,61,17,7
+Unknown ethnicity,6,1,0
+Black,9,4,2
+Hispanic,0,0,0
+Non-Hispanic,9,4,2
+Unknown ethnicity,0,0,0
+Other,16,6,0
+Hispanic,4,1,0
+Non-Hispanic,7,3,0
+Unknown ethnicity,5,2,0
+Unknown race,9,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,9,0,0
+Total,105,28,9
+"Race, ethnicity",Cases,Hospitalizations,
+White,99,5,0
+Hispanic,10,0,0
+Non-Hispanic,44,3,0
+Unknown ethnicity,45,2,0
+Black,81,6,0
+Hispanic,0,0,0
+Non-Hispanic,65,5,0
+Unknown ethnicity,16,1,0
+Other,8,1,0
+Hispanic,5,1,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,2,0,0
+Unknown race,37,0,0
+Hispanic,1,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,36,0,0
+Total,225,12,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,11,4,2
+Hispanic,0,0,0
+Non-Hispanic,10,4,1
+Unknown ethnicity,1,0,1
+Black,12,3,1
+Hispanic,0,0,0
+Non-Hispanic,12,3,1
+Unknown ethnicity,0,0,0
+Other,4,0,0
+Hispanic,3,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,27,7,3
+"Race, ethnicity",Cases,Hospitalizations,
+White,8,1,0
+Hispanic,2,0,0
+Non-Hispanic,6,1,0
+Unknown ethnicity,0,0,0
+Black,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,8,1,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,135,38,10
+Hispanic,21,4,2
+Non-Hispanic,112,33,8
+Unknown ethnicity,2,1,0
+Black,37,7,0
+Hispanic,1,0,0
+Non-Hispanic,36,7,0
+Unknown ethnicity,0,0,0
+Other,74,22,5
+Hispanic,51,13,3
+Non-Hispanic,21,8,2
+Unknown ethnicity,2,1,0
+Unknown race,14,2,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,13,2,0
+Total,260,69,15
+"Race, ethnicity",Cases,Hospitalizations,
+White,"1,051",286,77
+Hispanic,352,69,5
+Non-Hispanic,661,215,65
+Unknown ethnicity,38,2,7
+Black,280,65,7
+Hispanic,5,1,0
+Non-Hispanic,264,63,7
+Unknown ethnicity,11,1,0
+Other,41,8,0
+Hispanic,16,2,0
+Non-Hispanic,25,6,0
+Unknown ethnicity,0,0,0
+Unknown race,276,20,8
+Hispanic,12,0,0
+Non-Hispanic,6,1,1
+Unknown ethnicity,258,19,7
+Total,"1,648",379,92
+"Race, ethnicity",Cases,Hospitalizations,
+White,120,19,3
+Hispanic,12,1,0
+Non-Hispanic,105,17,3
+Unknown ethnicity,3,1,0
+Black,167,15,3
+Hispanic,5,0,0
+Non-Hispanic,158,15,3
+Unknown ethnicity,4,0,0
+Other,7,1,0
+Hispanic,2,1,0
+Non-Hispanic,5,0,0
+Unknown ethnicity,0,0,0
+Unknown race,16,1,0
+Hispanic,1,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,14,1,0
+Total,310,36,6
+"Race, ethnicity",Cases,Hospitalizations,
+White,16,1,0
+Hispanic,2,0,0
+Non-Hispanic,14,1,0
+Unknown ethnicity,0,0,0
+Black,7,1,0
+Hispanic,0,0,0
+Non-Hispanic,7,1,0
+Unknown ethnicity,0,0,0
+Other,1,1,0
+Hispanic,1,1,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,3,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,3,0,0
+Total,27,3,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,109,0,0
+Hispanic,5,0,0
+Non-Hispanic,50,0,0
+Unknown ethnicity,54,0,0
+Black,90,1,0
+Hispanic,0,0,0
+Non-Hispanic,77,1,0
+Unknown ethnicity,13,0,0
+Other,4,0,0
+Hispanic,1,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,3,0,0
+Unknown race,3,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,3,0,0
+Total,206,1,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,20,0,0
+Hispanic,0,0,0
+Non-Hispanic,17,0,0
+Unknown ethnicity,3,0,0
+Black,36,4,3
+Hispanic,0,0,0
+Non-Hispanic,31,4,3
+Unknown ethnicity,5,0,0
+Other,4,0,0
+Hispanic,1,0,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,1,0,0
+Unknown race,4,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,4,0,0
+Total,64,4,3
+"Race, ethnicity",Cases,Hospitalizations,
+White,632,129,66
+Hispanic,169,11,3
+Non-Hispanic,429,105,59
+Unknown ethnicity,34,13,4
+Black,183,38,14
+Hispanic,7,0,1
+Non-Hispanic,171,38,12
+Unknown ethnicity,5,0,1
+Other,71,30,8
+Hispanic,36,18,3
+Non-Hispanic,25,5,1
+Unknown ethnicity,10,7,4
+Unknown race,82,6,3
+Hispanic,3,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,78,6,3
+Total,968,203,91
+"Race, ethnicity",Cases,Hospitalizations,
+White,171,16,5
+Hispanic,36,2,2
+Non-Hispanic,135,14,3
+Unknown ethnicity,0,0,0
+Black,37,6,0
+Hispanic,1,0,0
+Non-Hispanic,36,6,0
+Unknown ethnicity,0,0,0
+Other,17,5,0
+Hispanic,3,1,0
+Non-Hispanic,14,4,0
+Unknown ethnicity,0,0,0
+Unknown race,7,4,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,7,4,0
+Total,232,31,5
+"Race, ethnicity",Cases,Hospitalizations,
+White,227,46,8
+Hispanic,81,10,0
+Non-Hispanic,136,35,8
+Unknown ethnicity,10,1,0
+Black,9,4,0
+Hispanic,1,0,0
+Non-Hispanic,7,4,0
+Unknown ethnicity,1,0,0
+Other,141,19,1
+Hispanic,136,19,1
+Non-Hispanic,3,0,0
+Unknown ethnicity,2,0,0
+Unknown race,106,2,0
+Hispanic,19,1,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,86,1,0
+Total,483,71,9
+"Race, ethnicity",Cases,Hospitalizations,
+White,74,9,2
+Hispanic,20,2,0
+Non-Hispanic,48,7,2
+Unknown ethnicity,6,0,0
+Black,5,2,1
+Hispanic,0,0,0
+Non-Hispanic,5,2,1
+Unknown ethnicity,0,0,0
+Other,1,0,0
+Hispanic,1,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,18,0,0
+Hispanic,1,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,17,0,0
+Total,98,11,3
+"Race, ethnicity",Cases,Hospitalizations,
+White,52,7,1
+Hispanic,0,0,0
+Non-Hispanic,51,7,1
+Unknown ethnicity,1,0,0
+Black,8,4,0
+Hispanic,0,0,0
+Non-Hispanic,8,4,0
+Unknown ethnicity,0,0,0
+Other,2,2,0
+Hispanic,1,1,0
+Non-Hispanic,1,1,0
+Unknown ethnicity,0,0,0
+Unknown race,3,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,2,0,0
+Total,65,13,1
+"Race, ethnicity",Cases,Hospitalizations,
+White,144,18,5
+Hispanic,27,3,0
+Non-Hispanic,117,15,5
+Unknown ethnicity,0,0,0
+Black,30,11,1
+Hispanic,3,0,0
+Non-Hispanic,27,11,1
+Unknown ethnicity,0,0,0
+Other,9,1,0
+Hispanic,0,0,0
+Non-Hispanic,9,1,0
+Unknown ethnicity,0,0,0
+Unknown race,2,0,0
+Hispanic,0,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,1,0,0
+Total,185,30,6
+"Race, ethnicity",Cases,Hospitalizations,
+White,43,5,0
+Hispanic,19,0,0
+Non-Hispanic,23,5,0
+Unknown ethnicity,1,0,0
+Black,10,1,0
+Hispanic,1,0,0
+Non-Hispanic,9,1,0
+Unknown ethnicity,0,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,6,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,6,0,0
+Total,59,6,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,770,140,18
+Hispanic,368,61,9
+Non-Hispanic,394,79,9
+Unknown ethnicity,8,0,0
+Black,261,54,10
+Hispanic,22,2,0
+Non-Hispanic,230,52,10
+Unknown ethnicity,9,0,0
+Other,607,110,11
+Hispanic,402,70,6
+Non-Hispanic,186,38,5
+Unknown ethnicity,19,2,0
+Unknown race,94,0,0
+Hispanic,1,0,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,91,0,0
+Total,"1,732",304,39
+"Race, ethnicity",Cases,Hospitalizations,
+White,313,73,11
+Hispanic,189,43,5
+Non-Hispanic,113,26,6
+Unknown ethnicity,11,4,0
+Black,55,12,0
+Hispanic,7,0,0
+Non-Hispanic,45,12,0
+Unknown ethnicity,3,0,0
+Other,241,62,7
+Hispanic,175,46,7
+Non-Hispanic,52,11,0
+Unknown ethnicity,14,5,0
+Unknown race,5,1,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,5,1,0
+Total,614,148,18
+"Race, ethnicity",Cases,Hospitalizations,
+White,"2,481",632,222
+Hispanic,892,133,21
+Non-Hispanic,"1,493",489,193
+Unknown ethnicity,96,10,8
+Black,992,255,60
+Hispanic,27,3,0
+Non-Hispanic,925,245,58
+Unknown ethnicity,40,7,2
+Other,695,142,17
+Hispanic,535,111,10
+Non-Hispanic,147,27,5
+Unknown ethnicity,13,4,2
+Unknown race,942,30,16
+Hispanic,51,4,3
+Non-Hispanic,7,2,0
+Unknown ethnicity,884,24,13
+Total,"5,110","1,059",315
+"Race, ethnicity",Cases,Hospitalizations,
+White,223,49,9
+Hispanic,45,6,0
+Non-Hispanic,174,43,9
+Unknown ethnicity,4,0,0
+Black,37,11,1
+Hispanic,0,0,0
+Non-Hispanic,35,11,1
+Unknown ethnicity,2,0,0
+Other,41,6,1
+Hispanic,22,3,0
+Non-Hispanic,18,3,1
+Unknown ethnicity,1,0,0
+Unknown race,38,6,1
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,38,6,1
+Total,339,72,12
+"Race, ethnicity",Cases,Hospitalizations,
+White,825,288,68
+Hispanic,81,14,1
+Non-Hispanic,708,257,65
+Unknown ethnicity,36,17,2
+Black,191,49,5
+Hispanic,3,0,0
+Non-Hispanic,183,49,5
+Unknown ethnicity,5,0,0
+Other,70,15,2
+Hispanic,13,2,1
+Non-Hispanic,56,13,1
+Unknown ethnicity,1,0,0
+Unknown race,41,3,0
+Hispanic,1,0,0
+Non-Hispanic,3,2,0
+Unknown ethnicity,37,1,0
+Total,"1,127",355,75
+"Race, ethnicity",Cases,Hospitalizations,
+White,522,168,30
+Hispanic,156,31,2
+Non-Hispanic,358,135,28
+Unknown ethnicity,8,2,0
+Black,186,59,10
+Hispanic,7,2,1
+Non-Hispanic,173,56,9
+Unknown ethnicity,6,1,0
+Other,105,23,7
+Hispanic,49,12,3
+Non-Hispanic,37,5,3
+Unknown ethnicity,19,6,1
+Unknown race,45,5,2
+Hispanic,0,0,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,43,5,2
+Total,858,255,49
+"Race, ethnicity",Cases,Hospitalizations,
+White,78,10,1
+Hispanic,1,0,0
+Non-Hispanic,76,10,1
+Unknown ethnicity,1,0,0
+Black,54,7,3
+Hispanic,0,0,0
+Non-Hispanic,52,5,2
+Unknown ethnicity,2,2,1
+Other,8,1,0
+Hispanic,5,1,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,1,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,140,18,4
+"Race, ethnicity",Cases,Hospitalizations,
+White,146,17,6
+Hispanic,8,1,1
+Non-Hispanic,137,16,5
+Unknown ethnicity,1,0,0
+Black,32,6,3
+Hispanic,1,0,0
+Non-Hispanic,31,6,3
+Unknown ethnicity,0,0,0
+Other,5,1,0
+Hispanic,1,0,0
+Non-Hispanic,4,1,0
+Unknown ethnicity,0,0,0
+Unknown race,21,0,0
+Hispanic,1,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,19,0,0
+Total,204,24,9
+"Race, ethnicity",Cases,Hospitalizations,
+White,459,132,64
+Hispanic,37,6,3
+Non-Hispanic,389,106,52
+Unknown ethnicity,33,20,9
+Black,43,12,3
+Hispanic,1,1,0
+Non-Hispanic,41,11,3
+Unknown ethnicity,1,0,0
+Other,36,12,5
+Hispanic,9,3,2
+Non-Hispanic,23,5,3
+Unknown ethnicity,4,4,0
+Unknown race,31,5,1
+Hispanic,0,0,0
+Non-Hispanic,4,1,1
+Unknown ethnicity,27,4,0
+Total,569,161,73
+"Race, ethnicity",Cases,Hospitalizations,
+White,324,73,12
+Hispanic,143,34,5
+Non-Hispanic,177,39,7
+Unknown ethnicity,4,0,0
+Black,67,13,0
+Hispanic,0,0,0
+Non-Hispanic,66,13,0
+Unknown ethnicity,1,0,0
+Other,57,21,0
+Hispanic,19,7,0
+Non-Hispanic,34,11,0
+Unknown ethnicity,4,3,0
+Unknown race,5,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,5,0,0
+Total,453,107,12
+"Race, ethnicity",Cases,Hospitalizations,
+White,182,31,5
+Hispanic,12,2,0
+Non-Hispanic,163,29,5
+Unknown ethnicity,7,0,0
+Black,15,0,0
+Hispanic,0,0,0
+Non-Hispanic,14,0,0
+Unknown ethnicity,1,0,0
+Other,16,5,0
+Hispanic,1,0,0
+Non-Hispanic,12,4,0
+Unknown ethnicity,3,1,0
+Unknown race,15,1,0
+Hispanic,2,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,13,1,0
+Total,228,37,5
+"Race, ethnicity",Cases,Hospitalizations,
+White,196,57,21
+Hispanic,38,6,1
+Non-Hispanic,151,51,20
+Unknown ethnicity,7,0,0
+Black,93,19,4
+Hispanic,1,1,0
+Non-Hispanic,78,16,4
+Unknown ethnicity,14,2,0
+Other,38,7,1
+Hispanic,17,2,0
+Non-Hispanic,18,4,1
+Unknown ethnicity,3,1,0
+Unknown race,54,5,2
+Hispanic,5,0,0
+Non-Hispanic,1,0,0
+Unknown ethnicity,48,5,2
+Total,381,88,28
+"Race, ethnicity",Cases,Hospitalizations,
+White,210,38,15
+Hispanic,12,3,0
+Non-Hispanic,196,35,15
+Unknown ethnicity,2,0,0
+Black,34,5,1
+Hispanic,0,0,0
+Non-Hispanic,34,5,1
+Unknown ethnicity,0,0,0
+Other,5,1,1
+Hispanic,2,0,0
+Non-Hispanic,3,1,1
+Unknown ethnicity,0,0,0
+Unknown race,3,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,3,0,0
+Total,252,44,17
+"Race, ethnicity",Cases,Hospitalizations,
+White,108,26,15
+Hispanic,11,3,1
+Non-Hispanic,96,23,14
+Unknown ethnicity,1,0,0
+Black,41,10,3
+Hispanic,0,0,0
+Non-Hispanic,40,9,3
+Unknown ethnicity,1,1,0
+Other,3,1,0
+Hispanic,3,1,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,8,1,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,8,1,0
+Total,160,38,18
+"Race, ethnicity",Cases,Hospitalizations,
+White,12,0,0
+Hispanic,0,0,0
+Non-Hispanic,12,0,0
+Unknown ethnicity,0,0,0
+Black,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,12,0,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,17,2,0
+Hispanic,0,0,0
+Non-Hispanic,17,2,0
+Unknown ethnicity,0,0,0
+Black,10,0,0
+Hispanic,0,0,0
+Non-Hispanic,9,0,0
+Unknown ethnicity,1,0,0
+Other,2,0,0
+Hispanic,0,0,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,0,0,0
+Unknown race,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,1,0,0
+Total,30,2,0
+"Race, ethnicity",Cases,Hospitalizations,
+White,384,92,32
+Hispanic,59,8,1
+Non-Hispanic,316,82,31
+Unknown ethnicity,9,2,0
+Black,139,23,3
+Hispanic,4,1,0
+Non-Hispanic,132,22,3
+Unknown ethnicity,3,0,0
+Other,114,19,2
+Hispanic,34,5,0
+Non-Hispanic,68,13,2
+Unknown ethnicity,12,1,0
+Unknown race,12,1,0
+Hispanic,0,0,0
+Non-Hispanic,2,0,0
+Unknown ethnicity,10,1,0
+Total,649,135,37
+"Race, ethnicity",Cases,Hospitalizations,
+White,14,2,1
+Hispanic,0,0,0
+Non-Hispanic,14,2,1
+Unknown ethnicity,0,0,0
+Black,13,2,0
+Hispanic,0,0,0
+Non-Hispanic,13,2,0
+Unknown ethnicity,0,0,0
+Other,3,1,0
+Hispanic,0,0,0
+Non-Hispanic,3,1,0
+Unknown ethnicity,0,0,0
+Unknown race,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Total,30,5,1
+"Race, ethnicity",Cases,Hospitalizations,
+White,84,13,8
+Hispanic,3,0,0
+Non-Hispanic,80,12,8
+Unknown ethnicity,1,1,0
+Black,7,2,0
+Hispanic,0,0,0
+Non-Hispanic,5,1,0
+Unknown ethnicity,2,1,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,1,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,1,0,0
+Total,92,15,8
+"Race, ethnicity",Cases,Hospitalizations,
+White,19,3,1
+Hispanic,0,0,0
+Non-Hispanic,18,2,1
+Unknown ethnicity,1,1,0
+Black,1,1,0
+Hispanic,0,0,0
+Non-Hispanic,1,1,0
+Unknown ethnicity,0,0,0
+Other,0,0,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,0,0,0
+Unknown race,6,2,0
+Hispanic,0,0,0
+Non-Hispanic,0,0,0
+Unknown ethnicity,6,2,0
+Total,26,6,1
